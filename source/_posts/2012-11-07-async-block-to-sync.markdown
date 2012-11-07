@@ -6,7 +6,7 @@ comments: true
 categories: [iOS, GCD, Tips, Notes]
 ---
 ###场景
-一款视频类的软件(比如[光影DV](itunes.apple.com/us/app/guang-yingdv/id552718710?ls=1&mt=8))在某个时间需要后台保存一些视频到媒体库, 查官方文档之后只发现这么一个异步的方法
+一款视频类的软件(比如[光影DV](http://itunes.apple.com/us/app/guang-yingdv/id552718710?ls=1&mt=8))在某个时间需要后台保存一些视频到媒体库, 查官方文档之后只发现这么一个异步的方法
 {% codeblock lang:objc %}
 - (void)writeVideoAtPathToSavedPhotosAlbum:(NSURL *)videoPathURL completionBlock:(ALAssetsLibraryWriteVideoCompletionBlock)completionBlock
 {% endcodeblock %}
