@@ -19,45 +19,43 @@ comments: true
 ##代码
 
 以下是设置动画效果
-{% highlight objectivec %}
+{% codeblock lang:objc %}
+UIStoryboard *board=[UIStoryboard storyboardWithName:@"MainStoryboard" bundle:nil];
+nextViewController =[board instantiateViewControllerWithIdentifier:@"NextView"];
 
-            UIStoryboard *board=[UIStoryboard storyboardWithName:@"MainStoryboard" bundle:nil];
-            nextViewController =[board instantiateViewControllerWithIdentifier:@"NextView"];
-            
-            // 把要加入进来的view设置提高一点~~ 不然自动留出一个status bar的高度
-            CGAffineTransform t = CGAffineTransformMakeTranslation(0.0, -20.0);  
-            [nextViewController.view setTransform:t]; 
-            
-            CATransition *animation = [CATransition animation];
-            animation.delegate = self; 
-            animation.duration = 1;
-            animation.timingFunction = [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionEaseInEaseOut];
-            // 设定动画类型
-            // kCATransitionFade 淡化
-            // kCATransitionPush 推挤
-            // kCATransitionReveal 揭开
-            // kCATransitionMoveIn 覆盖
-            // @"cube" 立方体
-            // @"suckEffect" 吸收
-            // @"oglFlip" 翻转
-            // @"rippleEffect" 波纹
-            // @"pageCurl" 翻页
-            // @"pageUnCurl" 反翻页
-            // @"cameraIrisHollowOpen" 镜头开
-            // @"cameraIrisHollowClose" 镜头关
-            animation.type = @"suckEffect"; 
-            animation.subtype = kCATransitionFromRight;
+// 把要加入进来的view设置提高一点~~ 不然自动留出一个status bar的高度
+CGAffineTransform t = CGAffineTransformMakeTranslation(0.0, -20.0);  
+[nextViewController.view setTransform:t]; 
 
-            [self.view addSubview:nextViewController.view];
-            [[self.view layer] addAnimation:animation forKey:@"animation"];
-{% endhighlight %}
+CATransition *animation = [CATransition animation];
+animation.delegate = self; 
+animation.duration = 1;
+animation.timingFunction = [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionEaseInEaseOut];
+// 设定动画类型
+// kCATransitionFade 淡化
+// kCATransitionPush 推挤
+// kCATransitionReveal 揭开
+// kCATransitionMoveIn 覆盖
+// @"cube" 立方体
+// @"suckEffect" 吸收
+// @"oglFlip" 翻转
+// @"rippleEffect" 波纹
+// @"pageCurl" 翻页
+// @"pageUnCurl" 反翻页
+// @"cameraIrisHollowOpen" 镜头开
+// @"cameraIrisHollowClose" 镜头关
+animation.type = @"suckEffect"; 
+animation.subtype = kCATransitionFromRight;
+
+[self.view addSubview:nextViewController.view];
+[[self.view layer] addAnimation:animation forKey:@"animation"];
+{% endcodeblock %}
 
 以下是动画结束之后的动作
-{% highlight objectivec %}
-
+{% codeblock lang:objc %}
 // 动画结束时的回调方法
 -(void)animationDidStop:(CAAnimation *)anim finished:(BOOL)flag {
     [self.navigationController pushViewController:nextViewController animated:NO];
     [nextViewController.view removeFromSuperview];    
 }
-{% endhighlight %}
+{% endcodeblock %}
