@@ -18,6 +18,7 @@ for (NSString *path in videoPaths) {
     dispatch_semaphore_t sema = dispatch_semaphore_create(0);
                         
     [library writeVideoAtPathToSavedPhotosAlbum:[NSURL fileURLWithPath:path] completionBlock:^(NSURL *assetURL, NSError *error) {
+        // 为了简明, 我把此处的错误判断神马的去掉了
         dispatch_semaphore_signal(sema);
     }];
 
