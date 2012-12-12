@@ -3,7 +3,7 @@ layout: post
 title: "iOS读书笔记_2012-12-11"
 date: 2012-12-11 10:18
 comments: true
-categories: [iOS, GCD, Tips, Notes]
+categories: [iOS, GCD, Tips, Notes, OpenGL, CoreData, Reading]
 ---
 *   Multithreading and Memory Management for iOS and OS X
     *   这本书太无敌了... 必须强烈推荐
