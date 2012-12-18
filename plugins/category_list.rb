@@ -25,9 +25,9 @@ module Jekyll
         url = get_category_url category
         style = "font-size: #{100 + (60 * Float(counter)/max)}%"
         if @config['category_counter']
-          html << " <a href='#{url}' style='#{style}'>#{category.capitalize}(#{@categories[category].count})</a> "
+          html << " <a href='#{url}' style='#{style}'>#{category}(#{@categories[category].count})</a> "
         else
-          html << " <a href='#{url}' style='#{style}'>#{category.capitalize}</a> "
+          html << " <a href='#{url}' style='#{style}'>#{category}</a> "
         end
       end
 
@@ -50,9 +50,9 @@ module Jekyll
       @categories.keys.sort_by{ |str| str.downcase }.each do |category|
         url = get_category_url category
         if @config['category_counter']
-          html << "  <li><a href='#{url}'>#{category.capitalize} (#{@categories[category].count})</a></li>\n"
+          html << "  <li><a href='#{url}'>#{category} (#{@categories[category].count})</a></li>\n"
         else
-          html << "  <li><a href='#{url}'>#{category.capitalize}</a></li>\n"
+          html << "  <li><a href='#{url}'>#{category}</a></li>\n"
         end
       end
       html << "</ul>"
