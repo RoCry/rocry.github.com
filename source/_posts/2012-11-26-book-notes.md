@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS读书笔记_2012-12-11 update:2012-12-17 17:40"
+title: "iOS读书笔记 update:2012-12-17 17:40"
 date: 2012-12-11 10:18
 comments: true
 categories: [iOS, GCD, Tips, Notes, OpenGL, CoreData, Reading]
