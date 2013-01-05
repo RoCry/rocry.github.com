@@ -31,6 +31,9 @@ ln -s ~/Dropbox/appdata/CodeSnippets ~/Library/Developer/Xcode/UserData/CodeSnip
 {% endcodeblock %}
 P.S. 比如 **NSFetchedResultsControllerDelegate** 实现模板放在CodeSnippet里面就挺实用的
 
+###Simulator 
+*   Ctrl + Cmd + v 可以在模拟器里面"粘贴"
+
 ###总结
 *   多看看Preference > Key Bindings里面的快捷键, 可以按需自己定制
 *   可以总结一套合适自己的Behaviors+Tabs
