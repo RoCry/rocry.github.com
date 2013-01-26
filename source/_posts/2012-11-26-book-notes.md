@@ -57,9 +57,13 @@ categories: [iOS, GCD, Tips, Notes, OpenGL, CoreData, Reading]
         *   [https://github.com/BradLarson/GPUImage](https://github.com/BradLarson/GPUImage)
     *  [Learning OpenGL with GPUImage](http://indieambitions.com/idevblogaday/learning-opengl-gpuimage/)
 
-
-
-
+---
+###Wrox.Professional.iOS.Network.Programming.Oct.2012
+*   有经验的同学可以直接从第6章开始看... 老外的书就是这么个特点, 循序渐进
+*   前五章比较基础, 跟apple的文档差不多, 略读了一遍
+*   第六章讲安全/加密/认证什么的, 读了一遍不是太清楚, 主要是暂时没用得上的地方, 以后用的时候还得再看看
+*   第七章讲了一些优化的技巧, 除了cache部分其他都没感到共鸣... -_- 难道我悲剧了...
+*   第八章是重头戏了.. 
 
 
 
