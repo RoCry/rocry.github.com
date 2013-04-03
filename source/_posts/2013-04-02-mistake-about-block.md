@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "很隐晦的一个错误"
-date: 2013-03-22 16:30
+date: 2013-04-02 16:30
 comments: true
 categories: [Note, Debug, Tips, Block, iOS, Objective-C]
 ---
