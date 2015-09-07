@@ -4,13 +4,10 @@ title: Why You should use Swift
 tags: swift
 ---
 
-## 
-
-## Type safe
+# Type safe
 
 
-
-Don’t need to check hundred times, don’t need&nbsp;NSParameterAssert in most cases.
+Don’t need to check hundred times, don’t need NSParameterAssert in most cases.
 
 
 
@@ -30,7 +27,10 @@ func didReceivedYoCount(count: UInt, fromUsername username: String, type: Int) {
 
 - (void)didReceivedYoCount:(NSUInteger)count fromUsername:(NSString *)username type:(int)type {
     // already check nil parameters when call
-    // NSParameterAssert(username);
+    if (username == nil) {
+        return;
+    }
+    NSParameterAssert(username);
     [self presentControllerWithName:@"MWEYoController" context:@{@"username": username, @"count": @(count), @"type": @(type)}];
 }
 {% endhighlight %}
