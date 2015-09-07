@@ -1,0 +1,11 @@
+# Site settings
+title: RoCry's Blog
+email: crysheen@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rocry.com" # the base hostname & protocol for your site
+
+twitter_username: RoCry
+github_username:  RoCry
+
+markdown: kramdown
+highlighter: pygments
