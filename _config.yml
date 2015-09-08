@@ -7,5 +7,7 @@ url: "http://rocry.com" # the base hostname & protocol for your site
 twitter_username: RoCry
 github_username:  RoCry
 
+
+permalink: /posts/:title
 markdown: kramdown
 highlighter: pygments
