@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why You should use Swift
+category: iOS/Mac
 tags: swift
 ---
 

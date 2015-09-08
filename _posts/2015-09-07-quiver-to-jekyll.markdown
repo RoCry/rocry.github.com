@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quiver to Jekyll
+category: Lifehacks
 tags: jekyll, lifehacks, quiver
 ---
 
