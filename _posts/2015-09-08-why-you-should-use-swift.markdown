@@ -157,6 +157,10 @@ reversed = names.sort({ s1, s2 in s1 > s2 })
 reversed = names.sort({ $0 > $1 })
 {% endhighlight %}
 
+{% highlight swift %}
+reversed = names.sort(>)
+{% endhighlight %}
+
 # guard
 
 
