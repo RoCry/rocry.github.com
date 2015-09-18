@@ -179,7 +179,7 @@ func somethingDidChanged(notification: NSNotification) {
 }
 {% endhighlight %}
 
-![](/assets/quiver_export/A87CE7E7-F9EE-480A-9A2F-8C52E9FF1641.jpg)
+ ![](/assets/quiver_export/A87CE7E7-F9EE-480A-9A2F-8C52E9FF1641.jpg)
 
 After:
 
@@ -306,12 +306,12 @@ Use Playground to test something when coding.
 
 
 
-![](/assets/quiver_export/FBFD2C46-8E02-4A18-B5D1-A9420B54D958.jpg)
+ ![](/assets/quiver_export/FBFD2C46-8E02-4A18-B5D1-A9420B54D958.jpg)
 
 # Summay
 
 
-![](/assets/quiver_export/8524433B-4ACF-42CB-B977-76D9EB701ADA.jpg)
+ ![](/assets/quiver_export/8524433B-4ACF-42CB-B977-76D9EB701ADA.jpg)
 
 ## Related
 

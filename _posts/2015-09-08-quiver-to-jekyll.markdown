@@ -27,7 +27,7 @@ Quiver is a notebook built for programmers. It lets you easily mix text, code an
     },
     {
       "type": "text",
-      "data": "<img src=\"quiver-image-url/8524433B-4ACF-42CB-B977-76D9EB701ADA.jpg\">"
+      "data": "<img src=\"/assets/quiver_export/8524433B-4ACF-42CB-B977-76D9EB701ADA.jpg\">"
     },
     {
       "type": "code",
