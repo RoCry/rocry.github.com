@@ -7,7 +7,8 @@ category: Lifehacks
 First of all, you need to SSH to your Synology which is the easiest part.  
 *If you have some problems, please figure out them by Google*
 
-* * *
+&nbsp;&nbsp;
+
 
 
 # Install ShadowSocks
@@ -74,13 +75,26 @@ forward           127.*.*.*/     .
 
 * Start Privoxy with `privoxy /etc/privoxy/config`
 
----
+&nbsp;&nbsp;
+
+
 
 For now, you could use http proxy from your other devices.
 
-One more thing, of course you can always make it better.
+And, of course we can always make it better.
 
-You could host a pac file to identify which sites need proxy and which don't. For me, I just export a pac file from my SwitchyOmega for Chrome. Works for me.
+Host a pac file to identify which sites need proxy and which don't is a good idea. For me, I just export a pac file from my SwitchyOmega for Chrome. Works for me.
+
+One more thing, if you are using Apple TV, you can add http proxy with Apple Configuarator. 
+
+[How to install a configuration profile on Apple TV - Apple Support](https://support.apple.com/en-us/HT202577)
+
+Enjoy~~
+
+
+
+&nbsp;&nbsp;
+
 
 Some Reference
 
@@ -89,4 +103,5 @@ Some Reference
 * [Privoxy - Home Page](http://www.privoxy.org/)
 * [在命令行使用Shadowsocks翻墙 - CXH.ME](http://cxh.me/2015/01/30/use-shadowsocks-in-terminal/)
 * [ds214-ipkg-install](https://gist.github.com/marlun78/9349792)
+* [How to install a configuration profile on Apple TV - Apple Support](https://support.apple.com/en-us/HT202577)
 
