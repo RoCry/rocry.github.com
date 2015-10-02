@@ -4,6 +4,7 @@ email: crysheen@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rocry.com" # the base hostname & protocol for your site
 
+
 twitter_username: RoCry
 github_username:  RoCry
 
@@ -11,3 +12,13 @@ github_username:  RoCry
 permalink: /posts/:title
 markdown: kramdown
 highlighter: pygments
+
+
+# google analytics
+ga:
+  id: UA-30105698-1
+  url: rocry.com
+
+# disqus
+disqus:
+  shortname: RoCry
