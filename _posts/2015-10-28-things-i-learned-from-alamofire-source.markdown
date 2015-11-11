@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Things I Learned from Alamofire Source
-category: iOS/Mac
-tags: alamofire, source_code, swift
+category: Swift
+tags: source_code, swift
 ---
 
 # The steps of a simple http request

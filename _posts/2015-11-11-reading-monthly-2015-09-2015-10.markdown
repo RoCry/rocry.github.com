@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Daily Reading List Archive 2015-09 2015-10
-category: Reading
+title: Reading Monthly 2015-09 2015-10
+category: Archive
 tags: reading
 ---
 
@@ -44,3 +44,4 @@ Daily Reading List Archive 2015-10
 * [State, Promises, and Reactive Programming](https://speakerdeck.com/inamiy/state-promises-and-reactive-programming)
 * [解开人人网登录密码的 RSA 加密_91Ri.org](http://pocket.co/sogkjX)
 * [Go语言错误处理](http://pocket.co/sogbbQ)
+
