@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things I Learned from Alamofire Source
+title: Things I Learned from Alamofire
 category: Swift
 tags: source_code, swift
 ---

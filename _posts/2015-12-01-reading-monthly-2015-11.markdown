@@ -1,0 +1,29 @@
+---
+layout: post
+title: Reading Monthly 2015-11
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[Github Issues](https://github.com/RoCry/rocry.github.com/issues)/[读读日报](dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2015-11
+
+* [TLS协议分析 与 现代加密通信协议设计 - Tech Ideas](https://blog.helong.info/blog/2015/09/06/tls-protocol-analysis-and-crypto-protocol-design/)
+* [iOS 处理图片的一些小 Tip — Garan no dou](http://blog.ibireme.com/2015/11/02/ios_image_tips/)
+* [iOS JSON 模型转换库评测 — Garan no dou](http://blog.ibireme.com/2015/10/23/ios_model_framework_benchmark/)
+* [YYCache 设计思路 — Garan no dou](http://blog.ibireme.com/2015/10/26/yycache/)
+* [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
+* [3 Go Gotchas](http://bryce.is/writing/code/jekyll/update/2015/11/01/3-go-gotchas.html)
+* [How iOS 9's Safari View Controller could completely change your app’s onboarding experience. — LaunchKit Library — Medium](https://library.launchkit.io/how-ios-9-s-safari-view-controller-could-completely-change-your-app-s-onboarding-experience-2bcf2305137f)
+* [iOS 9 Design Guidelines for iPhone and iPad - Design+Code](https://designcode.io/iosdesign-guidelines)
+* [iOS 保持界面流畅的技巧 — Garan no dou](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+* [优化UITableViewCell高度计算的那些事 — sunnyxx的技术博客](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
+* [深入理解RunLoop — Garan no dou](http://blog.ibireme.com/2015/05/18/runloop/)
+* [CodeReviewComments · golang/go Wiki](https://github.com/golang/go/wiki/CodeReviewComments)
+* [AMAZING MOROCCO 360 VIDEO - YouTube](https://www.youtube.com/watch?v=tr7HFZz76D8)
+* [ReactiveCocoa vs RxSwift - Ash Furrow](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/)
+* [The iPad Pro](http://daringfireball.net/2015/11/the_ipad_pro)
+
