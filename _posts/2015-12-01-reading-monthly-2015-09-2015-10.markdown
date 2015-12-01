@@ -7,9 +7,9 @@ tags: reading
 
 > Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
 
-> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[Github Issues](https://github.com/RoCry/rocry.github.com/issues)/[读读日报](dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[Github Issues](https://github.com/RoCry/rocry.github.com/issues)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
 
-Daily Reading List Archive 2015-09
+Daily Reading List Archive 2015-09 (13/118)
 
 * [Reverse-Engineering iOS Apps: Hacking on Lyft](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
 * [Do not let your user see spinners — Stanfy Engineering Practices — Medium](https://medium.com/stanfy-engineering-practices/do-not-let-your-user-see-spinners-35b824c3ce2f)
@@ -25,7 +25,7 @@ Daily Reading List Archive 2015-09
 * [Mixins and Traits in Swift 2.0](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/)
 * [Importance of Side Projects](http://rawsyntax.com/blog/importance-of-side-projects/)
 
-Daily Reading List Archive 2015-10
+Daily Reading List Archive 2015-10 (17/126)
 
 * [Daring Fireball: The iPhones 6S](http://daringfireball.net/2015/09/the_iphones_6s)
 * [Reducing FOOMs in the Facebook iOS app • Engineering Blog • Facebook Code](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/)
