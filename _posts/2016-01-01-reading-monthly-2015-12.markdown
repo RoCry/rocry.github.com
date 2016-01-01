@@ -1,0 +1,31 @@
+---
+layout: post
+title: Reading Monthly 2015-12
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2015-12 (17/130)
+
+* [Mulle kybernetiK - IMP Cacheing Deluxe](http://www.mulle-kybernetik.com/artikel/Optimization/opti-3-imp-deluxe.html)
+* [IL2CPP build size improvements - Unity Community](http://forum.unity3d.com/threads/il2cpp-build-size-improvements.322079/)
+* [A handy guide to using NSPredicates - Realm is a mobile database: a replacement for SQLite & Core Data](https://realm.io/news/nspredicate-cheatsheet/)
+* [Swift protocol extension method dispatch — iOS App Development — Medium](https://medium.com/ios-os-x-development/swift-protocol-extension-method-dispatch-6a6bf270ba94#.725t2gu18)
+* [又一个性能问题 - 长微博](http://weibo.com/p/1001603916376623480827)
+* [Cubic Bezier Curves - Under the Hood on Vimeo](https://vimeo.com/106757336)
+* [Flickr’s experience with iOS 9 - code.flickr.com](http://code.flickr.net/2015/11/18/flickrs-experience-with-ios-9/)
+* [CoreMotion Controlled 3D Sketching on an iPhone with Swift](http://flexmonkey.blogspot.co.uk/2015/08/coremotion-controlled-3d-sketching-on.html)
+* [Choosing an HTTP Status Code — Stop Making It Hard - Racksburg](http://racksburg.com/choosing-an-http-status-code/)
+* [mikeash.com: Friday Q&A 2015-11-06: Why is Swift's String API So Hard?](https://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html)
+* [[swift-evolution] Proposal: Universal dynamic dispatch for method calls](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151207/001948.html)
+* [Swift and C](https://realm.io/news/pragma-chris-eidhof-swift-c/)
+* [如何做到每周读一本书？](https://mp.weixin.qq.com/s?__biz=MzA3NTI0NzkwNA%3D%3D&idx=1&mid=400850202&scene=0&sn=0872657e6078a8db712a4ffedc80cd22#rd)
+* [Making and Using HTTP Middleware](http://www.alexedwards.net/blog/making-and-using-middleware)
+* [Perfect smooth scrolling in UITableViews — iOS App Development — Medium](https://medium.com/ios-os-x-development/perfect-smooth-scrolling-in-uitableviews-fd609d5275a5#.v4pzdjf8e)
+* [mikeash.com: Friday Q&A 2014-07-04: Secrets of Swift's Speed](https://www.mikeash.com/pyblog/friday-qa-2014-07-04-secrets-of-swifts-speed.html)
+* [How to deal with persistent storage (e.g. databases) in docker - Stack Overflow](http://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker)
+
