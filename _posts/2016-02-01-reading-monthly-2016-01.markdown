@@ -1,0 +1,24 @@
+---
+layout: post
+title: Reading Monthly 2016-01
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-01 (10/149)
+
+* [Reader Submissions - New Year's 2016 - NSHipster](http://nshipster.com/new-years-2016/)
+* [Why Spinlocks Are Bad On iOS – Postmates Engineering – Building the best on-demand delivery product on the planet.](http://engineering.postmates.com/Spinlocks-Considered-Harmful-On-iOS/)
+* [对信息和技术的一些看法](https://luolei.org/the-value-of-tech-and-information/)
+* [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors)
+* [Brian Partridge - Result Driven Development - YouTube](https://www.youtube.com/watch?v=aCm68xAWrno)
+* [再谈百度：KPI、无人机，以及一个必须给父母看的案例](https://mp.weixin.qq.com/s?__biz=MjM5MTE4Nzk1NA%3D%3D&idx=1&mid=401987621&sn=e3ca4e99fd1cc1f936538e3b0cbfe801)
+* [dave.head.open() - Edit distance and edit steps](http://davedelong.tumblr.com/post/134367865668/edit-distance-and-edit-steps)
+* [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/?plg_auth=1&plg_dev=1&plg_nld=1&plg_nld=1&plg_uin=1&plg_usr=1&plg_vkey=1#subscribe)
+* [Functional Reactive Programming with RxSwift, with Max Alexander - Realm is a mobile database: a replacement for SQLite & Core Data](https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/)
+* [看完了张小龙的 2359 条饭否日记 - 太空小孩 - 知乎专栏](http://zhuanlan.zhihu.com/spacekid/20539834?from=message&isappinstalled=0)
+
