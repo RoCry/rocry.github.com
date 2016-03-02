@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS Developer Tips
-category: iOS/Mac
+category: Cocoa
 tags: ios, til, xcode
 ---
 

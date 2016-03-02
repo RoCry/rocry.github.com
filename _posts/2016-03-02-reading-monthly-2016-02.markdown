@@ -1,0 +1,20 @@
+---
+layout: post
+title: Reading Monthly 2016-02
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-02 (6/119)
+
+* [More Chinese Mobile UI Trends](http://dangrover.com/blog/2015/01/31/more-chinese-mobile-ui-trends.html)
+* [蠢萌蠢萌的抢红包机器人，魔性的机械手臂…… - DIY小组 - 果壳网 科技有意思](http://www.guokr.com/post/718260/)
+* [Asynchronous error handling – Crunchy Development](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/)
+* [商业分析能力是怎样炼成的？](http://www.zhihu.com/question/20603837/answer/47073613)
+* [swift/OptimizationTips.rst at master · apple/swift](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst)
+* [iOS App Performance: Instruments & beyond — Medium](https://medium.com/@mandrigin/ios-app-performance-instruments-beyond-48fe7b7cdf2#.edhjc02aq)
+
