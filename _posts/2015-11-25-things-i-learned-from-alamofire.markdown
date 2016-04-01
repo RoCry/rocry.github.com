@@ -153,7 +153,7 @@ public func request(
 }
 {% endhighlight %}
 
-# Result<T, E> for Error Handling
+# Result\<T, E\> for Error Handling
 
 
 {% highlight swift %}
