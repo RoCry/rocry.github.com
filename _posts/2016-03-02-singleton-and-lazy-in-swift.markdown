@@ -8,7 +8,7 @@ tags: swift
 # Singleton in Swift
 
 
- [http://krakendev.io/blog/the-right-way-to-write-a-singleton](http://krakendev.io/blog/the-right-way-to-write-a-singleton)
+[http://krakendev.io/blog/the-right-way-to-write-a-singleton](http://krakendev.io/blog/the-right-way-to-write-a-singleton)
 
 {% highlight swift %}
 class TheOneAndOnlyKraken {
@@ -16,7 +16,7 @@ class TheOneAndOnlyKraken {
 }
 {% endhighlight %}
 
- [https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/AdoptingCocoaDesignPatterns.html](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/AdoptingCocoaDesignPatterns.html)  
+[https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/AdoptingCocoaDesignPatterns.html](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/AdoptingCocoaDesignPatterns.html)  
 
 
 In Swift, you can simply use a static type property, which is guaranteed to be lazily initialized only once, even when accessed across multiple threads simultaneously:

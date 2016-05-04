@@ -47,7 +47,7 @@ As you see, most of the cells are pretty straightforward, except the cell about 
 So what I need to do is copy the source of images to where my jekyll assets are, “~/Desktop/blog/assets” for example. Then I convert the html syntax in text cell to markdown, replace the source url to right one. Done!
 
 
-What I have done is add text cell parsing for this script:&nbsp; [https://github.com/bradley-curran/quiver2jekyll](https://github.com/bradley-curran/quiver2jekyll)&nbsp;
+What I have done is add text cell parsing for this script:&nbsp;[https://github.com/bradley-curran/quiver2jekyll](https://github.com/bradley-curran/quiver2jekyll)&nbsp;
 
 
 

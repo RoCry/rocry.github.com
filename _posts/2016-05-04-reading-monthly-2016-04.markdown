@@ -1,0 +1,19 @@
+---
+layout: post
+title: Reading Monthly 2016-04
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-04 (5/87)
+
+* [currency.swift](https://gist.github.com/oisdk/569de8286f9f706749b7d0668836706a#gistcomment-1737857)
+* [Swift 烧脑体操（五）- Monad - 唐巧的技术博客](http://blog.devtang.com/2016/04/05/swift-gym-5-monad/)
+* [GCD外传：dispatch_once(上) - 梦维](http://www.dreamingwish.com/article/gcd-guide-dispatch-once-1.html)
+* [iOS9AdaptationTips/基于HTTP2的全新APNs协议.md at master · ChenYilong/iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips/blob/master/%E5%9F%BA%E4%BA%8EHTTP2%E7%9A%84%E5%85%A8%E6%96%B0APNs%E5%8D%8F%E8%AE%AE/%E5%9F%BA%E4%BA%8EHTTP2%E7%9A%84%E5%85%A8%E6%96%B0APNs%E5%8D%8F%E8%AE%AE.md)
+* [Introducing GPUImage 2, redesigned in Swift - Sunset Lake Software](http://sunsetlakesoftware.com/2016/04/16/introducing-gpuimage-2-redesigned-swift)
+
