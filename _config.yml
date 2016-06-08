@@ -11,7 +11,7 @@ github_username:  RoCry
 
 permalink: /posts/:title
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 
 # google analytics
