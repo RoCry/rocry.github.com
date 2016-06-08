@@ -1,0 +1,17 @@
+---
+layout: post
+title: Reading Monthly 2016-05
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-05 (3/81)
+
+* [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
+* [FAQ: Framework Size - PSPDFKit](https://pspdfkit.com/guides/ios/current/faq/framework-size/)
+* [基于GPUImage的实时美颜滤镜 - 简书](http://www.jianshu.com/p/945fc806a9b4)
+
