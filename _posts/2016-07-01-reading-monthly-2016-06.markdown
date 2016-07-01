@@ -1,0 +1,29 @@
+---
+layout: post
+title: Reading Monthly 2016-06
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-06 (15/127)
+
+* [乔治的创业故事：融资 - lincode](http://lincode.github.io/Startup-Stock)
+* [动态追踪技术漫谈](http://openresty.org/posts/dynamic-tracing/)
+* [Do Evil with ESP8266: Slow Down the WiFi - yoursunny.com](https://yoursunny.com/t/2016/WiFi-flood/)
+* [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/)
+* [Table View Controllers in Swift](https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/)
+* [Good design - About Vitsœ - Vitsœ](https://www.vitsoe.com/rw/about/good-design)
+* [iOS 10.0](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS/Articles/iOS10.html#//apple_ref/doc/uid/TP40017084-SW1)
+* [iOS冰与火之歌 – UAF and Kernel Pwn - WooYun知识库](http://drops.wooyun.org/tips/16681)
+* [WWDC 2016 Initial Impressions](https://www.raywenderlich.com/136657/wwdc-2016-initial-impressions)
+* [「WWDC 2016 总结」Apple的一小步，IM和AI的一大步 - 笔戈科技 - 知乎专栏](https://zhuanlan.zhihu.com/p/21351765)
+* [关于 iOS 10 中 ATS 的问题](https://onevcat.com/2016/06/ios-10-ats/)
+* [Quit my full time corporate job. Built an iOS game. It became #1 in the App Store. Here are revenue numbers and what I learned. : startups](https://www.reddit.com/r/startups/comments/4f74dv/quit_my_full_time_corporate_job_built_an_ios_game/)
+* [逆向探索微信消息界面实现](https://everettjf.github.io/2016/06/19/reverse-explore-wechat-message-design)
+* [Objective-C 消息发送与转发机制原理 - yulingtianxia's blog](http://yulingtianxia.com/blog/2016/06/15/Objective-C-Message-Sending-and-Forwarding/)
+* [iOS 10 Music 架构解析](https://mp.weixin.qq.com/s?__biz=MzIwMTYzMzcwOQ%3D%3D&ascene=0&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11.5+build%2815F24b%29&fontScale=100&idx=1&key=77421cf58af4a65361ad8a627a6ebd0c24835a90a64005610ff540a897c716453b3aec1b3c5f6e649b34481becbe1783&mid=2650948426&nettype=WIFI&pass_ticket=x8utcNX8vV8gmNCLdwy6ZSjhHhR%2BGLp8NA2muerA5N0%3D&scene=0&sn=39660132831ca76f45c73c2c50ed47ed&uin=MjAyODQxMjk1&version=12000002)
+
