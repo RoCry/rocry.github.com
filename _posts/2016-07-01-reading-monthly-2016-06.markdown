@@ -9,7 +9,7 @@ tags: reading
 
 > By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
 
-Daily Reading List Archive 2016-06 (15/127)
+Daily Reading List Archive 2016-06 (15/127)
 
 * [乔治的创业故事：融资 - lincode](http://lincode.github.io/Startup-Stock)
 * [动态追踪技术漫谈](http://openresty.org/posts/dynamic-tracing/)
