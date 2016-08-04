@@ -1,0 +1,24 @@
+---
+layout: post
+title: Reading Monthly 2016-07
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-07 (10/207)
+
+* [Surge 2.0 是如何实现在 iOS 上反盗版的 — Medium](https://medium.com/@Blankwonder/surge-2-0-%E6%98%AF%E5%A6%82%E4%BD%95%E5%8F%8D%E7%9B%97%E7%89%88%E7%9A%84-c03d8a41c9de#.n7ya04fd9)
+* [为什么我不在微信公众号上写文章 - 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/17391.html)
+* [Beware the UIKit Visitors! · [Thinking inside a large box];](http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/)
+* [Make your app extensible with JavaScript Core — iOS App Development — Medium](https://medium.com/ios-os-x-development/make-your-app-extensible-with-javascript-core-7074061f2b05#.me35ebkui)
+* [GCD's Main Queue vs. Main Thread · [Thinking inside a large box];](http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/)
+* [Library-Oriented Programming](https://realm.io/news/justin-spahr-summers-library-oriented-programming/)
+* [Errors are values - The Go Blog](https://blog.golang.org/errors-are-values)
+* [Unbundling Pokémon Go — Applidium](https://applidium.com/en/news/unbundling_pokemon_go/)
+* [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
+* [Mutexes and closure capture in Swift](http://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html)
+
