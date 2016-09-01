@@ -2,6 +2,7 @@
 layout: post
 title: Something about UserNotifications
 category: AppleDev
+tags: apple
 ---
 
 > Before reading this, if you don't know what [UserNotifications](https://developer.apple.com/reference/usernotifications) is, please check [https://developer.apple.com/videos/wwdc2016/](https://developer.apple.com/videos/wwdc2016/)

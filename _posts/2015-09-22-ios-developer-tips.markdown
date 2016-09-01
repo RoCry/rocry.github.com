@@ -2,7 +2,7 @@
 layout: post
 title: iOS Developer Tips
 category: AppleDev
-tags: ios, til, xcode
+tags: apple, ios, til, xcode
 ---
 
 _I should post this before I forget it... Will update this in future_

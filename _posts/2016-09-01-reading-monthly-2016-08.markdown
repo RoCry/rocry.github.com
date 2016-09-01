@@ -1,0 +1,20 @@
+---
+layout: post
+title: Reading Monthly 2016-08
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-08 (6/168)
+
+* [浅谈 iOS 关键代码的混淆 - 点点的黑科技实验室](http://darktechlabs.com/2016/08/10/%E6%B5%85%E8%B0%88-iOS-%E5%85%B3%E9%94%AE%E4%BB%A3%E7%A0%81%E7%9A%84%E6%B7%B7%E6%B7%86/#0-tsina-1-6746-397232819ff9a47a7b7e80a40613cfe1)
+* [帮女神修手机的意外发现：隐匿在iOS文件系统中的隐私信息](http://www.freebuf.com/articles/terminal/76317.html)
+* [This is Your Life in Silicon Valley — Medium](https://medium.com/@subes01/this-is-your-life-in-silicon-valley-933091235095#.ic8ilkgo3)
+* [使用 ASDK 性能调优 - 提升 iOS 界面的渲染性能](http://draveness.me/asdk-rendering/)
+* [Rush - 如何确定视觉风格](https://zi.com/w/a/7accOz?id=7accOz)
+* [Periscope's Sketch Feature: From Prototype to Production Code](https://realm.io/news/building-periscope-sketches-ios/)
+
