@@ -2,7 +2,7 @@
 layout: post
 title: Fuck GFW with Synology
 category: Lifehacks
-tags: gfw, shadowsocks, synology
+tags: gfw, lifehacks, shadowsocks, synology
 ---
 
 First of all, you need to SSH to your Synology which is the easiest part.  

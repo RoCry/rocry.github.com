@@ -1,0 +1,17 @@
+---
+layout: post
+title: Reading Monthly 2016-09
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-09 (3/132)
+
+* [从 Auto Layout 的布局算法谈性能](http://draveness.me/layout-performance/)
+* [Apple – Don’t Blink - YouTube](https://www.youtube.com/watch?v=GeoUELDgyM4)
+* [GitHub Octoverse 2016](https://octoverse.github.com/)
+
