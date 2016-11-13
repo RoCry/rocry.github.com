@@ -1,0 +1,19 @@
+---
+layout: post
+title: Reading Monthly 2016-10
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-10 (5/148)
+
+* [Let's Talk About project.pbxproj - yulingtianxia's blog](http://yulingtianxia.com/blog/2016/09/28/Let-s-Talk-About-project-pbxproj/)
+* [黑科技：把第三方 iOS 应用转成动态库 - Jun's Blog](http://blog.imjun.net/2016/10/08/%E9%BB%91%E7%A7%91%E6%8A%80%EF%BC%9A%E6%8A%8A%E7%AC%AC%E4%B8%89%E6%96%B9-iOS-%E5%BA%94%E7%94%A8%E8%BD%AC%E6%88%90%E5%8A%A8%E6%80%81%E5%BA%93/)
+* [微信终端跨平台组件 mars 系列（一） - 高性能日志模块xlog](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286403&idx=1&sn=7b258bc931150b93d282f2c64a4a7d08&chksm=8334c381b4434a97920cd5d2a443f6c8c5c159a23bb5baf11a2018db9a2bc1b1a634a3eb0870&mpshare=1&scene=2&srcid=1011hIADQFM3TicNoId4I74F&from=timeline&isappinstalled=0#wechat_redirect)
+* [Badoo Tech Blog :: How we made Chatto](https://techblog.badoo.com/blog/2015/12/04/how-we-made-chatto/)
+* [张小龙最新内部演讲：警惕 KPI 和流程 - 极客公园](http://www.geekpark.net/topics/217107)
+
