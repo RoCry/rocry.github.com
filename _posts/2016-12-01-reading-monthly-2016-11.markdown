@@ -1,0 +1,16 @@
+---
+layout: post
+title: Reading Monthly 2016-11
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2016-11 (2/139)
+
+* [Supertop Blog: How Not to Crash #1](http://blog.supertop.co/post/152615019837/how-not-to-crash-1)
+* [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+
