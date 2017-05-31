@@ -1,0 +1,22 @@
+---
+layout: post
+title: Reading Monthly 2017-03 ~ 2017-05
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2017-03 (0/101)
+
+Daily Reading List Archive 2017-04 (2/59)
+
+* [Protobuf有没有比JSON快5倍？用代码来击破pb性能神话](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548493&idx=1&sn=d250989c7a1c78af1d9a020a7e857a69&chksm=813a7e55b64df743a94ad7bcca87c37952cff3a6af56810789410843e08073273de182a5916c&scene=4#wechat_redirect)
+* [微信 SQLite 数据库修复实践](http://mp.weixin.qq.com/s/N1tuHTyg3xVfbaSd4du-tw)
+
+Daily Reading List Archive 2017-05 (1/72)
+
+* [荒野之息：重新设计开放世界 - 旗舰评论——战略航空军元帅的旗舰 - 知乎专栏](https://zhuanlan.zhihu.com/p/26630073)
+
