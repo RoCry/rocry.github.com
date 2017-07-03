@@ -1,0 +1,18 @@
+---
+layout: post
+title: Reading Monthly 2017-06
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2017-06 (4/105)
+
+* [在与 AlphaGo（包括 Master） 的对局中是否出现了一些人类历史上从未想到过的着法、技巧？ - 知乎](https://www.zhihu.com/question/54440008/answer/175796135)
+* [市售主流智能电视消费者报告_数码_科技_bilibili_哔哩哔哩](http://www.bilibili.com/video/av11179995)
+* [Kotlin: The Good, The Bad, and The Ugly – Keepsafe Engineering – Medium](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
+* [【一席】摩拜单车胡玮炜：这是我决定做摩拜单车前非常零碎的一些想法_演讲•公开课_科技_bilibili_哔哩哔哩](http://www.bilibili.com/video/av7878780)
+
