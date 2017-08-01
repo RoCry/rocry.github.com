@@ -1,0 +1,17 @@
+---
+layout: post
+title: Reading Monthly 2017-07
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2017-07 (3/88)
+
+* [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ%3D%3D&ascene=0&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&devicetype=iMac14%252C2+OSX+OSX+10.12.5+build%2816F73%29&fontScale=100&idx=1&key=6369de1f14048989d9e02b350338e56ad23455a6c6b9afc15a0c864e68931bde57f2a4aff4e90f384b34df0106a811f74925b9a9c7769b1fd138691adb8cdd911502dc8980a2c0f6465aa9fce4c3f028&mid=2649286672&nettype=WIFI&pass_ticket=ch%252&scene=0&sn=4d9db00c496fcafd1d3e01d69af083f9&uin=MjAyODQxMjk1&version=12020810)
+* [关于Android模块化我有一些话不知当讲不当讲 - 简书](http://www.jianshu.com/p/910911172243)
+* [Advanced WWDC 2017 Guide – Badoo Tech](https://badootech.badoo.com/advanced-wwdc-2017-guide-b6278ba0c94b)
+
