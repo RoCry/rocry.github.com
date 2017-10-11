@@ -1,0 +1,19 @@
+---
+layout: post
+title: Reading Monthly 2017-09
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2017-09 (5/74)
+
+* [十三邀第二季第一集：许知远对话马东_十三邀第二季_腾讯视频](https://v.qq.com/x/cover/79r40y15x4wmzcg/s0024i647oj.html)
+* [Apple “无缝”设计之历程 · [ i D 公 社 ]](http://www.hi-id.com/?p=3286)
+* [游戏开发方式的改变，造就了《塞尔达传说 荒野之息》 - vgtime.com](http://www.vgtime.com/topic/801487.jhtml?page=1)
+* [Why is ARKit better than the alternatives? – Super Ventures Blog – Medium](https://medium.com/super-ventures-blog/why-is-arkit-better-than-the-alternatives-af8871889d6a)
+* [Creating a Reactive Data Layer with Realm and RxJava2](https://academy.realm.io/posts/creating-a-reactive-data-layer-with-realm-and-rxjava2/)
+
