@@ -1,0 +1,18 @@
+---
+layout: post
+title: Reading Monthly 2017-10
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[读读日报](http://dudu.zhihu.com/circle/173514), and I will do the archive post monthly
+
+Daily Reading List Archive 2017-10 (4/82)
+
+* [迅雷创始人程浩：人工智能创业的6大核心问题](http://tech.sina.com.cn/csj/2017-10-09/doc-ifymrcmm9458215.shtml)
+* [mikeash.com: Friday Q&A 2015-12-11: Swift Weak References](https://mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
+* [How to conduct a good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
+* [【官方双语/合集】线性代数的本质 - 系列合集_趣味科普人文_科技_bilibili_哔哩哔哩](https://www.bilibili.com/video/av6731067/)
+
