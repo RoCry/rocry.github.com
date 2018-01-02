@@ -1,0 +1,19 @@
+---
+layout: post
+title: Reading Monthly 2017-11
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[Telegram Group](https://t.me/joinchat/BIzrClBjC8qPzzaqLSHI4w), and I will do the archive post monthly
+
+Daily Reading List Archive 2017-11 (5/116)
+
+* [But what *is* a Neural Network? - Deep learning, Part 1 - YouTube](https://www.youtube.com/watch?t=400s&v=aircAruvnKk)
+* [Queues are not bound to any specific thread](http://blog.krzyzanowskim.com/2016/06/03/queues-are-not-bound-to-any-specific-thread/)
+* [微信安卓客户端逆向分析 - 肉猪 哈哈哈哈](https://impakho.com/2017/02/22/wechat-android-client-hack/index.html)
+* [HTTPS Certificate Revocation is broken, and it’s time for some new tools - Ars Technica](https://arstechnica.com/information-technology/2017/07/https-certificate-revocation-is-broken-and-its-time-for-some-new-tools/)
+* [Strings in Swift 4](https://oleb.net/blog/2017/11/swift-4-strings/)
+

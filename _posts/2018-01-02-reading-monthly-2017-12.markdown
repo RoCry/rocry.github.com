@@ -1,0 +1,16 @@
+---
+layout: post
+title: Reading Monthly 2017-12
+category: Archive
+tags: reading
+---
+
+> Here are part of my monthly daily reading lists, I only exported the five star ones(which I think it's good enough to post them here)
+
+> By the way, I record all the things I read by [Alfred Workflows](https://www.alfredapp.com/workflows/) to [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)/[Telegram Group](https://t.me/joinchat/BIzrClBjC8qPzzaqLSHI4w), and I will do the archive post monthly
+
+Daily Reading List Archive 2017-12 (2/92)
+
+* [如何设计并实现一个线程安全的 Map ？(上篇)](https://halfrost.com/go_map_chapter_one/)
+* [【1080P】《AlphaGo》纪录片_人文历史_纪录片_哔哩哔哩](http://www.bilibili.com/video/av16976589)
+
